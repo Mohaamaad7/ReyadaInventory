@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleReyadaInventoriesName'
+ModuleReyadaInventoriesName = ReyadaInventories
+# Module description 'ModuleReyadaInventoriesDesc'
+ModuleReyadaInventoriesDesc = ReyadaInventories description
+
+#
+# Admin page
+#
+ReyadaInventoriesSetup = ReyadaInventories setup
+Settings = Settings
+ReyadaInventoriesSetupPage = ReyadaInventories setup page
+NewSection=New section
+REYADAINVENTORIES_MYPARAM1 = My param 1
+REYADAINVENTORIES_MYPARAM1Tooltip = My param 1 tooltip
+REYADAINVENTORIES_MYPARAM2=My param 2
+REYADAINVENTORIES_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+ReyadaInventoriesAbout = About ReyadaInventories
+ReyadaInventoriesAboutPage = ReyadaInventories about page
+
+#
+# Sample page
+#
+ReyadaInventoriesArea = Home ReyadaInventories
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
